@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: my-package
+Version: 0.1
+Home-page: 
+Author: faith
+Author-email: nyawiragathuku4@gmail.com
+License: MIT
+
+#my package
+
+This library was created as an example of how to publish python package.
+#How to install
